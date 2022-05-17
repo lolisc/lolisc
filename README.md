@@ -1,6 +1,4 @@
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
-## Hello, I'm Lorena Neves! Welcome to my GitHub! 👋
-
+![Hello, I'm Lorena Neves! Welcome to my GitHub!](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 - 🔭 I’m currently working on Software Quality Assurance.
 - 🌱 I'm currently learning ReactJS, Cypress and Golang.
 - ✍ I am currently in the fourth period of the Faculty of Systems Analysis and Development.
