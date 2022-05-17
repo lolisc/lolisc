@@ -1,3 +1,4 @@
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 ## Hello, I'm Lorena Neves! Welcome to my GitHub! 👋
 
 - 🔭 I’m currently working on Software Quality Assurance.
